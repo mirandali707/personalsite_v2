@@ -1,7 +1,9 @@
 # miranda li
 
 [art](mirandali707.github.io/#art)
+
 [resume](mirandali707.github.io/assets/Miranda_Li_Resume.pdf)
+
 [contact](mirandali707.github.io/#art)
 
 
