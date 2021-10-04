@@ -1,10 +1,10 @@
 # miranda li
 
-[art](mirandali707.github.io/#art)
+[art](#art)
 
-[resume](mirandali707.github.io/assets/Miranda_Li_Resume.pdf)
+[resume](./assets/Miranda_Li_Resume.pdf)
 
-[contact](mirandali707.github.io/#art)
+[contact](#contact)
 
 
 ## art
