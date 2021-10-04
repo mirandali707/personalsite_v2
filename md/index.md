@@ -1,7 +1,9 @@
 # Miranda Li
 I'm a student at Stanford studying computer science. I spend most of my time thinking about art, journalism, education, accessibility and (sometimes/frequently) their intersections with technology & computation.
 
-**Recently I've**
+My email is mirandal at stanford dot edu; my resume is [here](./assets/Miranda_Li_Resume.pdf); my Linkedin is [here](https://www.linkedin.com/in/miranda-li-b83859124/).
+
+*Recently I've...*
 - authored accessible assignments for 12,000+ students and curriculum for teaching 900+ volunteer teachers as part of the [Code in Place](https://codeinplace.stanford.edu/) head TA team
   - currently working on a mass storytelling project related to Code in Place / am actively involved in planning the next iteration of Code in Place
 - produced AI-generated poetry for an upcoming exhibition by [Rashaad Newsome](https://rashaadnewsome.com/)
@@ -19,10 +21,5 @@ I'm a student at Stanford studying computer science. I spend most of my time thi
     - [Issue 4](https://issuu.com/stanforddailymagazine/docs/mag_4_issuu2)
     - [Issue 5](https://issuu.com/stanforddailymagazine/docs/mag_5_issuu), a special edition on physical and mental health at Stanford
     - [Issue 6](https://drive.google.com/file/d/1uuyYQ8CWSB_WdbEP0ALFJ46pzHeepPBX/view?usp=sharing), a special edition for LGBTQ+ pride
-
-**Contact**
-- [resume](./assets/Miranda_Li_Resume.pdf)
-- mirandal at stanford dot edu
-- [Linkedin](https://www.linkedin.com/in/miranda-li-b83859124/)
 
 [//]: # "generate-md --layout github --input ./md --output ./"
