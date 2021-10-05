@@ -15,11 +15,11 @@ Recently I've...
 ### Art
 - [Green sketchbook](https://drive.google.com/drive/folders/15vggxU5RCSbFvxW1cyNQxIjf8E2LbCA5?usp=sharing) (March 2020 - December 2020)
   - <img src="img/tiny_banan_sketchbook.png" height="150"/>
-  - I've finished a second sketchbook since and am now on my third :)
+  - I've finished a second sketchbook since and am now on my third :) Pictures to come, maybe
 - [Google Drive folder with some other things I've made](https://drive.google.com/drive/folders/1zBoHcQ9embiK1hZGd5m3g7vDEMGMGyff?usp=sharing)
   - <img src="img/woven_gradient.gif" width="200"/>
 - [Magdalene pencil drawing / animation process](https://mirandali707.github.io/magdalene.html)
-  - <iframe width="300" src="https://www.youtube.com/embed/MoGW-WBVwRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+  - <iframe width="300" height="200" src="https://www.youtube.com/embed/MoGW-WBVwRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 - [Gouache painting process](https://mirandali707.github.io/green_eyes.html)
   - <img src="img/art/green_eyes/after_edits.JPG" width="150"/>
 - When I was Graphics Managing Editor for [The Stanford Daily](https://www.stanforddaily.com/) (November 2018 - June 2019) I helped make
