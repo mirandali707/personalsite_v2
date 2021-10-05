@@ -14,7 +14,8 @@ Recently I've...
 
 **Art**
 - [Green sketchbook](https://drive.google.com/drive/folders/15vggxU5RCSbFvxW1cyNQxIjf8E2LbCA5?usp=sharing) (March 2020 - December 2020)
-  - I've finished a sketchbook since and am now on my third :) Hopefully I'll take some pictures soon
+  - - <img src="img/tiny_banan_sketchbook.jpeg" width="100"/>
+  - I've finished a second sketchbook since and am now on my third :)
 - [Google Drive folder with some other things I've made](https://drive.google.com/drive/folders/1zBoHcQ9embiK1hZGd5m3g7vDEMGMGyff?usp=sharing)
 - [Gouache painting process](https://mirandali707.github.io/green_eyes.html)
 - [Magdalene pencil drawing / animation process](https://mirandali707.github.io/magdalene.html)
